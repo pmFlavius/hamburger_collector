@@ -48,7 +48,7 @@ ObiectRandom createObiect(Texture &texture)
 int main()
 {
     srand(time(NULL));
-    RenderWindow window(VideoMode(800, 600), "Stefan il mananca pe Razvan!", Style::Default);
+    RenderWindow window(VideoMode(800, 600), "Hamburger Collector", Style::Default);
     window.setPosition(Vector2i(10, 50));
     window.setVerticalSyncEnabled(true);
 
