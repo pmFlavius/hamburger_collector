@@ -22,7 +22,7 @@ A 2D physics-based game built in C++ with SFML where you control a bouncing ball
 
 - **C++** - Core programming language
 - **SFML** - Graphics, System, Window modules
-- **Multi-threading** - sf::Thread for game timer
+- **Multi-threading** - Thread for game timer
 - **Mutex** - Thread synchronization for score and time
 
 ## 🎯 Gameplay
