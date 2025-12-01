@@ -1,5 +1,6 @@
 #Hamburger Collector
 
+##ENG
 A 2D physics-based game built in C++ with SFML where you control a bouncing ball to collect "burgers" and score points.
 
 ## 🎮 Features
@@ -49,12 +50,3 @@ A 2D physics-based game built in C++ with SFML where you control a bouncing ball
 - Bounce coefficient for realistic ball physics
 - Friction and acceleration for smooth controls
 - Ground and wall collision detection
-
-## 🔮 Future Improvements
-
-- [ ] Add sound effects
-- [ ] Multiple levels with increasing difficulty
-- [ ] Power-ups and special abilities
-- [ ] High score leaderboard
-- [ ] Different collectible types with varying point values
-- [ ] Obstacles and hazards
